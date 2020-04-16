@@ -1,0 +1,9 @@
+* {
+    font-family: monospace, Arial, Helvetica, sans-serif;
+    margin: auto;
+};
+div {
+    padding: 20px;
+    width: 80%;
+    margin: inherit;
+}
